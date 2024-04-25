@@ -1,0 +1,17 @@
+/* ------------------------------------------------------------------
+  Plugin AWB Styles
+ ------------------------------------------------------------------- */
+/* stylelint-disable scss/comment-no-empty */
+.nk-awb img,
+.nk-awb-inner img {
+  border-radius: var(--horr-border-radius);
+}
+
+.nk-awb.is-style-horr-mask {
+  -webkit-mask-size: 100% 100%;
+          mask-size: 100% 100%;
+}
+.nk-awb.is-style-horr-mask-2 {
+  -webkit-mask-size: 100% 100%;
+          mask-size: 100% 100%;
+}
